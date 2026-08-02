@@ -1,4 +1,4 @@
-# UART Decoder for Home Assistant
+# HA UART Engine
 
 Description
 A universal Home Assistant custom integration for UART-based devices.
