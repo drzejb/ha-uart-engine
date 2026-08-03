@@ -13,3 +13,16 @@ Czyści pliki tymczasowe projektu.
 ## release.ps1
 
 Tworzy release projektu na GitHub.
+
+## config.ps1
+
+Wspólna konfiguracja wszystkich skryptów.
+
+Requirements
+
+- Git
+- Python 3.13+
+- OpenSSH
+- rsync
+
+Both `ssh` and `rsync` must be available in PATH.
